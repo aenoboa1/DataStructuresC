@@ -7,7 +7,7 @@ int main(void)
     int n;
     printf("Introduzca el tamano del array\n");
     scanf("%d",&n);
-    int *vect1 = (int*)malloc(n*sizeof(int)); //array almacenada dinamicamente donde n es el 
+    int *vect1 = (int*)calloc(n,sizeof(int)); //array almacenada dinamicamente donde n es el 
     if(vect1==NULL)
     {
         printf("Error, memoria no almacenada");
