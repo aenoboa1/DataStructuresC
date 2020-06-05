@@ -1,0 +1,39 @@
+Examen recursividad, memoria y TDA
+Estructura de Datos
+Jueves 5 de Junio del 2020
+
+1.	Realizar un programa que contenga una función, que obtenga el promedio de los números de un arreglo, el número menor del mismo y el mayor también, no se puede utilizar otro arreglo ni cambiar el nombre o tipo del arreglo principal que contiene los números iniciales, obviamente se puede aumentar su dimensión y cambiar sus datos, solo se puede hacer una función a la que se le pasará como dato el arreglo y la misma obtendrá los 3 números requeridos, estos números deben ser impresos a pantalla después de obtenidos. El programa principal, deberá contener obligatoriamente estas líneas, correspondientes al único arreglo que se podrá utilizar en el programa y única función solicitada:
+
+int main()
+{
+float array[5]= {10.5, 5.1, 8.9, 10, 95.2};
+//Insertar instrucciones necesarias aquí
+return 0;
+}
+
+2.	Realizar un programa que lea una cadena de caracteres ingresada por teclado, este programa deberá contener y utilizar una función recursiva que imprima dicha cadena de caracteres al revés.
+
+3.	¿Qué se obtiene como salida en pantalla del código siguiente, asumiendo que la dirección de memoria asignada para guardar el valor de A es 00A77, y la dirección de memoria asignada para guardar el valor de *puntero es 00A87.
+
+ 
+
+Explique con un gráfico y con sus propias palabras, que son cada uno de los 3 valores obtenidos.
+
+4.	¿Cuál es la salida en pantalla del siguiente programa? Modificar el siguiente programa tal que: imprima la dirección completa del cliente, dirección ciudad y provincia, además cree una segunda instancia de cliente y guarde las dos instancias en un arreglo de 2 elementos.
+  
+
+
+Todo el examen deberá ser entregado en un archivo comprimido con nombre [Apellido].zip
+El archivo deberá tener los siguientes archivos de texto plano con la solución de las preguntas planteadas:
+Pregunta 1: [Apellido]1.zip
+Pregunta 2: [Apellido]2.zip
+Pregunta 3: [Apellido]3.zip
+Pregunta 4: [Apellido]4.zip
+Ejemplo: La pregunta 1 estará contenida en el archivo Noboa1.txt que a su vez está contenido en el archivo Noboa.zip o rar
+Tienen una hora para la resolución del exámen, 15 minutos por pregunta, recuerden que son todos ejercicios ya resueltos y teoría ya vista con pequeñas modificaciones.
+
+Sus exámenes son indviduales, y cualquier intento de plagio será reportado a la autoridad pertenente y el examen entero será calificado con cero, tanto para la persona que copió como a la que permitió que le copien.
+
+A la hora exacta sus exámenes deberán ser enviados al correo de la plataforma, la demora será penalizada con un punto por minuto, por lo que se les recomienda entregar lo que tengan al momento de finalizada la prueba, la misma que será calificada sobre 10 puntos.
+
+Ejercicio 2 (listo)
