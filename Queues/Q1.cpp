@@ -51,7 +51,6 @@ void Encolar(struct Cola *cola, int x)
         return;
     }
     else{
-        cola->Frente++;
         cola->Final++;
         cola->Ptr[cola->Final]=x;
     }
